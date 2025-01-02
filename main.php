@@ -1,11 +1,12 @@
 <?php 
 /**
- * Plugin Name: Cloudflare Auto Purge Cache
- * Plugin URI: https://github.com/arkonetto/cloudflare-auto-purge-cache
- * Description: Auto purge cache for Cloudflare plugin
- * Version: 1.0.0
- * Author: Arkonetto
- * Author URI: https://github.com/arkonetto
+ * Plugin Name: @ CloudFlare Auto Purge Cache
+ * Plugin URI: https://github.com/aiiddqd/cloudflare-auto-purge-cache
+ * Description: Auto purge cache for CloudFlare plugin
+ * Author: aiiddqd
+ * Requires Plugins: cloudflare
+ * Author URI: https://github.com/aiiddqd/
+ * Version: 0.9
  */
 
 namespace CloudFlareAutoPurgeCache;
